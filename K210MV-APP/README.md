@@ -1,0 +1,6 @@
+这是microlua ai工程的一部分
+microlua ai 是一个脚本开发框架，如同micropy和arduino,但microlua框架本身支持在不修改框架的前提下，
+可单独扩展外接设备驱动，这样开发者既能用顶层LUA脚本做应用，也能用C语言扩展底层驱动，
+并且microlua定位在支持支持各种AI处理器，支持各种类型开发板，这个有点类似OS操作系统的方式。
+这是一个伟大创新，我们根据需要会逐步开源一些应用接口.
+开源的部分遵循the GNU Affero General Public License,作者hbs
